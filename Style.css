@@ -1,0 +1,35 @@
+label,
+textarea {
+    font-size: .8rem;
+    letter-spacing: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+textarea {
+    padding: 10px;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    background-color:lightskyblue;
+    
+
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+.editable-div{
+    margin: auto;
+    width: 23%;
+    border: 3px solid #21adad;
+    padding: 10px;
+}
+body  {
+    background-image: url("vowels.png") ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
